@@ -4,3 +4,6 @@
  Install .net SDK >=4.6.1.
  dotnet build
  then run AddScheduledTask.bat as admin.
+
+
+Microsoft Limited Public License: http://technet.microsoft.com/en-us/cc300389.aspx#P
